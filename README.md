@@ -13,7 +13,7 @@
 ## ScreenShoots
 
 ## login page 
-<img height="480px" src="screenshots/login.jpg">
+<img height="480px" width="350" src="screenshots/login.jpg">
 
 
 ## register page 
