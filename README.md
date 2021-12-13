@@ -13,16 +13,20 @@
 ## ScreenShoots
 
 ## login page 
-<img height="480px" width="350" src="screenshots/login.jpg">
+<img height="480px" src="screenshots/login.jpg">
+<br>
 
 
 ## register page 
 <img height="480px" src="screenshots/register.jpg">
+<br>
 
 
 ## reset password page 
 <img height="480px" src="screenshots/reset.jpg">
+<br>
 
 
 ## create new password page 
 <img height="480px" src="screenshots/create.jpg">
+<br>
