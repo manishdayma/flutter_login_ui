@@ -1,32 +1,16 @@
-# flutter_login_ui
+# 🔥🔥 Flutter Login Flow 🔥🔥
 
-# Flutter Login Flow UI Made In Flutter 2.8 with null safety 
+Star⭐ the repo if you like what you like more stuff on flutter 😉.
 
-# Please leave a STAR if you found this useful..
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter.
 
+## Some Screenshots For You 💖
 
-**Fonts**
-
-- Poppins [link](https://fonts.google.com/specimen/Poppins)
-
-
-## ScreenShoots
-
-## login page 
-<img height="480px" src="screenshots/login.jpg">
-<br>
-
-
-## register page 
+<img height="480px" src="screenshots/login.jpg">|
 <img height="480px" src="screenshots/register.jpg">
-<br>
-
-
-## reset password page 
 <img height="480px" src="screenshots/reset.jpg">
-<br>
-
-
-## create new password page 
 <img height="480px" src="screenshots/create.jpg">
 <br>
